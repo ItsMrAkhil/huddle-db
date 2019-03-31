@@ -4,7 +4,8 @@
             "id": 1,
             "title": "Pellentesque volutpat ante lectus",
             "body": "Morbi finibus rhoncus tristique. Nulla dignissim vestibulum nisi sit amet viverra. Quisque dapibus elit libero, sit amet facilisis sem luctus sed. Suspendisse potenti. Donec accumsan, risus a consectetur pretium, dui lacus interdum justo, sit amet fermentum arcu arcu a mi. Nullam eu tincidunt justo. Proin vehicula scelerisque tortor, vitae placerat enim. Quisque ac mauris congue, volutpat dolor vitae, tempor lorem. Fusce lobortis sem vel nulla mollis pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sit amet arcu sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus pellentesque vel diam ut volutpat. Nulla vehicula nec massa ut euismod. Nulla facilisi.",
-            "userId": 1
+            "userId": 1,
+            "commentIds": [1]
         },
         {
             "id": 2,
@@ -64,6 +65,15 @@
             "website": "https://www.ijkltd.com",
             "company": "IJK Pvt, Ltd.",
             "postIds": [5, 6]
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "subject": "Sed lacus erat, viverra bibendum quam commodo",
+            "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
+            "user": 3,
+            "post": 1
         }
     ]
 }
