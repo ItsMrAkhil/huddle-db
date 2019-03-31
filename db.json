@@ -44,7 +44,8 @@
             "fullName": "Akhil Pentamsetti",
             "email": "akhil.pab@gmail.com",
             "website": "https://www.crackaptitude.com",
-            "company": "XYZ Pvt, Ltd."
+            "company": "XYZ Pvt, Ltd.",
+            "postIds": [1, 2, 3]
         },
         {
             "id": 2,
@@ -52,7 +53,8 @@
             "fullName": "John Doe",
             "email": "john.doe@gmail.com",
             "website": "https://www.abcpvt.com",
-            "company": "ABC Pvt, Ltd."
+            "company": "ABC Pvt, Ltd.",
+            "postIds": [4]
         },
         {
             "id": 3,
