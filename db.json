@@ -60,7 +60,8 @@
             "fullName": "Aron Justin",
             "email": "aron.juston@gmail.com",
             "website": "https://www.ijkltd.com",
-            "company": "IJK Pvt, Ltd."
+            "company": "IJK Pvt, Ltd.",
+            "postIds": [5, 6]
         }
     ]
 }
