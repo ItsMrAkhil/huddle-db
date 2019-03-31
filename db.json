@@ -11,31 +11,36 @@
             "id": 2,
             "title": "Fusce eget porttitor quam",
             "body": "Morbi finibus rhoncus tristique. Nulla dignissim vestibulum nisi sit amet viverra. Quisque dapibus elit libero, sit amet facilisis sem luctus sed. Suspendisse potenti. Donec accumsan, risus a consectetur pretium, dui lacus interdum justo, sit amet fermentum arcu arcu a mi. Nullam eu tincidunt justo. Proin vehicula scelerisque tortor, vitae placerat enim. Quisque ac mauris congue, volutpat dolor vitae, tempor lorem. Fusce lobortis sem vel nulla mollis pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sit amet arcu sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus pellentesque vel diam ut volutpat. Nulla vehicula nec massa ut euismod. Nulla facilisi.",
-            "userId": 1
+            "userId": 1,
+            "commentIds": [2]
         },
         {
             "id": 3,
             "title": "Proin quis vehicula ligula",
             "body": "Morbi finibus rhoncus tristique. Nulla dignissim vestibulum nisi sit amet viverra. Quisque dapibus elit libero, sit amet facilisis sem luctus sed. Suspendisse potenti. Donec accumsan, risus a consectetur pretium, dui lacus interdum justo, sit amet fermentum arcu arcu a mi. Nullam eu tincidunt justo. Proin vehicula scelerisque tortor, vitae placerat enim. Quisque ac mauris congue, volutpat dolor vitae, tempor lorem. Fusce lobortis sem vel nulla mollis pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sit amet arcu sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus pellentesque vel diam ut volutpat. Nulla vehicula nec massa ut euismod. Nulla facilisi.",
-            "userId": 1
+            "userId": 1,
+            "commentIds": [3]
         },
         {
             "id": 4,
             "title": "In nec purus dui. Morbi non dui molestie",
             "body": "Morbi finibus rhoncus tristique. Nulla dignissim vestibulum nisi sit amet viverra. Quisque dapibus elit libero, sit amet facilisis sem luctus sed. Suspendisse potenti. Donec accumsan, risus a consectetur pretium, dui lacus interdum justo, sit amet fermentum arcu arcu a mi. Nullam eu tincidunt justo. Proin vehicula scelerisque tortor, vitae placerat enim. Quisque ac mauris congue, volutpat dolor vitae, tempor lorem. Fusce lobortis sem vel nulla mollis pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sit amet arcu sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus pellentesque vel diam ut volutpat. Nulla vehicula nec massa ut euismod. Nulla facilisi.",
-            "userId": 2
+            "userId": 2,
+            "commentIds": [4]
         },
         {
             "id": 5,
             "title": "Phasellus rhoncus ultrices enim sit amet porta",
             "body": "Morbi finibus rhoncus tristique. Nulla dignissim vestibulum nisi sit amet viverra. Quisque dapibus elit libero, sit amet facilisis sem luctus sed. Suspendisse potenti. Donec accumsan, risus a consectetur pretium, dui lacus interdum justo, sit amet fermentum arcu arcu a mi. Nullam eu tincidunt justo. Proin vehicula scelerisque tortor, vitae placerat enim. Quisque ac mauris congue, volutpat dolor vitae, tempor lorem. Fusce lobortis sem vel nulla mollis pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sit amet arcu sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus pellentesque vel diam ut volutpat. Nulla vehicula nec massa ut euismod. Nulla facilisi.",
-            "userId": 3
+            "userId": 3,
+            "commentIds": [5]
         },
         {
             "id": 6,
             "title": "Pellentesque bibendum nibh quis sem interdum sagittis",
             "body": "Morbi finibus rhoncus tristique. Nulla dignissim vestibulum nisi sit amet viverra. Quisque dapibus elit libero, sit amet facilisis sem luctus sed. Suspendisse potenti. Donec accumsan, risus a consectetur pretium, dui lacus interdum justo, sit amet fermentum arcu arcu a mi. Nullam eu tincidunt justo. Proin vehicula scelerisque tortor, vitae placerat enim. Quisque ac mauris congue, volutpat dolor vitae, tempor lorem. Fusce lobortis sem vel nulla mollis pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse sit amet arcu sapien. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus pellentesque vel diam ut volutpat. Nulla vehicula nec massa ut euismod. Nulla facilisi.",
-            "userId": 3
+            "userId": 3,
+            "commentIds": [6]
         }
     ],
     "users": [
@@ -74,6 +79,41 @@
             "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
             "user": 3,
             "post": 1
+        },
+        {
+            "id": 2,
+            "subject": "Svitae aliquam sapien pharetra",
+            "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
+            "user": 2,
+            "post": 2
+        },
+        {
+            "id": 3,
+            "subject": "Ut in ex sagittis, volutpat magna scelerisque",
+            "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
+            "user": 1,
+            "post": 3
+        },
+        {
+            "id": 4,
+            "subject": "Donec euismod ligula vel purus commodo",
+            "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
+            "user": 1,
+            "post": 4
+        },
+        {
+            "id": 5,
+            "subject": "Integer tempor diam metus",
+            "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
+            "user": 2,
+            "post": 5
+        },
+        {
+            "id": 5,
+            "subject": "Cras finibus luctus ante sed faucibus",
+            "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
+            "user": 3,
+            "post": 6
         }
     ]
 }
