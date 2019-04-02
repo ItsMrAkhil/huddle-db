@@ -71,43 +71,43 @@
             "id": 1,
             "subject": "Sed lacus erat, viverra bibendum quam commodo",
             "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
-            "user": 3,
-            "post": 1
+            "userId": 3,
+            "postId": 1
         },
         {
             "id": 2,
             "subject": "Svitae aliquam sapien pharetra",
             "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
-            "user": 2,
-            "post": 2
+            "userId": 2,
+            "postId": 2
         },
         {
             "id": 3,
             "subject": "Ut in ex sagittis, volutpat magna scelerisque",
             "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
-            "user": 1,
-            "post": 3
+            "userId": 1,
+            "postId": 3
         },
         {
             "id": 4,
             "subject": "Donec euismod ligula vel purus commodo",
             "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
-            "user": 1,
-            "post": 4
+            "userId": 1,
+            "postId": 4
         },
         {
             "id": 5,
             "subject": "Integer tempor diam metus",
             "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
-            "user": 2,
-            "post": 5
+            "userId": 2,
+            "postId": 5
         },
         {
             "id": 5,
             "subject": "Cras finibus luctus ante sed faucibus",
             "bobdy": "lacinia maximus ante. Integer ipsum sem, consequat vel nibh a, ullamcorper scelerisque orci. Duis velit lorem, consectetur vel convallis consectetur, vulputate quis risus",
-            "user": 3,
-            "post": 6
+            "userId": 3,
+            "postId": 6
         }
     ]
 }
